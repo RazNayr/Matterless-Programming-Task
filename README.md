@@ -15,3 +15,8 @@ BONUS POINTS:
 * This one monobehaviour does no logic, it just delegates tasks to Unity so that Unity could be replaced by another engine easily.
 * Render the distance as a line between camera and label, change color based on distance.
 * Clean, minimalistic and functional code that's easy to understand for another developer.
+
+## Notes from the author:
+Please go to Assets/Task/LabelController to view the task monobehaviour
+- This application was built using AR Foundation using AR Core for android build
+- Since this task required only 2 labels, the UpdateAnchorDetails() function was designed to get child components on every update. In reality, implementing a map/dictionary which stores the anchor as keys and components as values would be more resource efficient when having larger number of anchors.
