@@ -19,4 +19,3 @@ BONUS POINTS:
 ## Notes from the author:
 Please go to Assets/Task/LabelController to view the task monobehaviour
 - This application was built using AR Foundation using AR Core for android build
-- Since this task required only 2 labels, the UpdateAnchorDetails() function was designed to get child components on every update. In reality, implementing a map/dictionary which stores the anchor as keys and components as values would be more resource efficient when having larger number of anchors.
