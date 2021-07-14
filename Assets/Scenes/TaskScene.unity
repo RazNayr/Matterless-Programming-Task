@@ -412,11 +412,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6cbaa762c02e69489b61a146b5e652f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colorGradient:
+  _colorGradient:
     serializedVersion: 2
     key0: {r: 0, g: 1, b: 0.34865355, a: 1}
     key1: {r: 1, g: 0.7800881, b: 0, a: 1}
-    key2: {r: 1, g: 0, b: 0.24661255, a: 0}
+    key2: {r: 1, g: 0.029781194, b: 0.2371977, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
     key5: {r: 0, g: 0, b: 0, a: 0}
@@ -441,9 +441,8 @@ MonoBehaviour:
     m_Mode: 0
     m_NumColorKeys: 3
     m_NumAlphaKeys: 2
-  anchorPrefab: {fileID: 8875966526999624899, guid: 28ab0f667677b9a49ba69117b2b1bc2b,
+  _anchorPrefab: {fileID: 8875966526999624899, guid: 28ab0f667677b9a49ba69117b2b1bc2b,
     type: 3}
-  maxNumOfAnchors: 2
 --- !u!1 &456311148
 GameObject:
   m_ObjectHideFlags: 0
