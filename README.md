@@ -17,5 +17,9 @@ BONUS POINTS:
 * Clean, minimalistic and functional code that's easy to understand for another developer.
 
 ## Notes from the author:
-Please go to Assets/Task/LabelController to view the task monobehaviour
-- This application was built using AR Foundation using AR Core for android build
+This application was built using AR Foundation using AR Core for android build
+- Please go to Assets/Task/MainController.cs to view the task monobehaviour
+- All Interfaces can be seen within the Assets/Task/Interfaces/ directory
+- All Helper scripts can be seen within the Assets/Task/Helpers/ directory
+
+Thanks :) 
